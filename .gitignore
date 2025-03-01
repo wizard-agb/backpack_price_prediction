@@ -1,4 +1,5 @@
-./submissions/*
-./models/*
-./hyperband_tuning1/*
-./catboost_info/*
+submissions/
+models/
+hyperband_tuning1/
+catboost_info/
+
