@@ -1,0 +1,10 @@
+nbformat
+tabulate
+Jinja2
+seaborn
+pandas
+scikit-learn
+catboost
+xgboost
+lightgbm
+category_encoders
